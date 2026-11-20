@@ -1,1 +1,2 @@
 This file is a sorting of cards on the screen by change the select element in HTML so with each different value it will show different cards on the screen, I use innerHTML method to change the HTML elements depend on the selected option 
+<img width="989" height="737" alt="{35CCF8DF-55A5-4CDA-81EE-B7EB239F2BA2}" src="https://github.com/user-attachments/assets/bbac2bfa-363c-4ad0-aa34-926442eaea81" />
