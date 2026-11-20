@@ -1,0 +1,1 @@
+This file is a sorting of cards on the screen by change the select element in HTML so with each different value it will show different cards on the screen, I use innerHTML method to change the HTML elements depend on the selected option 
